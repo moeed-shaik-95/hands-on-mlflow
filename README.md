@@ -14,7 +14,7 @@
 - run `jupyter notebook`
 
 
-## The `train.py` file
+## The train.py file
 - run `python train.py`
 
 ## To start the mlflow-ui
